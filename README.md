@@ -1,12 +1,12 @@
 # fa21-cse110-lab4
 ## **expose**  
 - ### **devtools**  
-   - [Link text Here](/expose/devtools/devtools-pt1.md)  
+   - [Devtools Part 1](/expose/devtools/devtools-pt1.md)  
 - ### **javascript**  
-   - [Link text Here](/expose/javascript/part1.md)  
-   - [Link text Here](/expose/javascript/part2.md)  
-   - [Link text Here](/expose/javascript/part2-question16.js)  
-   - [Link text Here](/expose/javascript/part2-question18.js)  
+   - [Part 1](/expose/javascript/part1.md)  
+   - [Part 2](/expose/javascript/part2.md)  
+   - [Question 16 JavaScript](/expose/javascript/part2-question16.js)  
+   - [Question 18 JavaScript](/expose/javascript/part2-question18.js)  
 ## **explore**  
 - ### **devtools**  
    - [Devtools Part 2](/explore/devtools/devtools-pt2.md)  
