@@ -1,0 +1,2 @@
+1. The bug was that num1 and num2 were not being converted to numeric data types, and when added as strings they were just combined together.
+2. 'coerce' the num1 and num2 variables into numeric data types.
